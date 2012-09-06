@@ -1,0 +1,9 @@
+#  You can use this zshrc by this way:
+
+cp zshrc ~/.zshrc
+
+#  Or you can use it as bashrc:
+
+cp zshrc ~/.bashrc
+
+#  But if you want to use it as bashrc, you should change or remove PS1 line.
